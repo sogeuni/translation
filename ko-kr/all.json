@@ -1,0 +1,69 @@
+{
+  "COMMON": {
+    "ACTIONS": {
+      "APPLY": "적용",
+      "COPY": "복사",
+      "CREATE": "생성",
+      "DELETE": "삭제",
+      "DUPLICATE": "복제",
+      "EDIT": "편집",
+      "HIDE": "숨기기",
+      "REMOVE": "제거",
+      "UPDATE": "업데이트",
+      "VIEW": "보기"
+    },
+    "AI": {
+      "AI_FLASHCARDS": "AI 플래시카드"
+    },
+    "GENERAL": {
+      "FLASHCARD_one": "플래시카드",
+      "FLASHCARD_other": "플래시카드",
+      "NOTE_one": "노트",
+      "NOTE_other": "노트"
+    },
+    "NEW": "새"
+  },
+  "COMMUNITY": {
+    "ARTICLES": {
+      "ERRORS": {
+        "SHARING": {
+          "NO_CONTENT": {
+            "SRC": "공유하려는 문서가 비어 있는 것 같습니다. 최소 {{minimum}} 개의 rem을 추가한 다음 다시 시도하세요.",
+            "SUBDOCUMENT": "하위 문서 중 하나가 비어 있는 것 같습니다. {{minimum}} 개의 rem이 있을 때까지는 공개되지 않습니다."
+          },
+          "NO_TITLE": {
+            "SRC": "공유하려는 문서에 제목이 없습니다. 공개하기 전에 제목을 추가해야 합니다.",
+            "SUBDOCUMENT": "하위 문서 중 하나에 제목이 없습니다. 제목을 추가하기 전에는 공개되지 않습니다."
+          }
+        }
+      }
+    }
+  },
+  "DOCUMENT": {
+    "DIALOGS": {
+      "DELETE_ALSO_UNSHARE": "문서의 공유도 취소하시겠습니까?",
+      "DELETE_CONFIRM_DIALOG": "이 문서를 삭제하시겠습니까?",
+      "DELETE_UNSHARE_ERROR": "이 문서의 공유를 해제하는 중 오류가 발생했습니다. 수동으로 공유를 해제하세요.",
+      "DELETE_UNSHARE_OFFLINE_ERROR": "오프라인 상태입니다. 온라인 상태가 되면 수동으로 문서 공유를 해제하세요."
+    },
+    "MENU": {
+      "ADD_NESTED_DOCUMENT": "중첩 문서 추가",
+      "CHANGE_DOCUMENT_ICON": "문서 아이콘 변경",
+      "CHANGE_DOCUMENT_STATUS": "문서 상태 변경",
+      "CHANGE_FOLDER_ICON": "폴더 아이콘 변경",
+      "CUSTOMIZE_SPACED_REPETITION": "간격 반복 학습 사용자 정의",
+      "DELETE": "삭제",
+      "EDIT_MODE": {
+        "READ": "읽기 전용 모드",
+        "WRITE": "편집 모드"
+      },
+      "EXPORT": "내보내기",
+      "FIND_OR_FILTER": "찾기 또는 필터링",
+      "FIND_TEXT_REFERENCES": {
+        "DEPRECATION_WARNING": "이 옵션은 더이상 사용되지 않으며, 대신 <keycode />를 눌러 텍스트 참조를 검색하는 방법을 권장합니다.",
+        "LABEL": "텍스트 참조 찾기"
+      },
+      "MARK_AS_DOCUMENT": "문서로 표시"
+    }
+  }
+}
